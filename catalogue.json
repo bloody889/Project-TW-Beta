@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "source": "Medieval II: Total War Mobile - ModDB",
+  "mods": [
+    {
+      "title": "Secession: Civil War Original (mobile)",
+      "description": "The original Secession: Civil War mod for Medieval II: Total War, made by the team at MundusBellicus. Includes new factions and custom battles; no campaign.",
+      "url": "https://www.moddb.com/mods/secession-civil-war-original-mobile",
+      "date": "Sep 28 2026"
+    },
+    {
+      "title": "Stainless Steel Historical Improvement Project (Mobile)",
+      "description": "An ambitious, large-scale mod based on Stainless Steel 6.4, aiming to deliver a historically detailed early-era campaign.",
+      "url": "https://www.moddb.com/mods/stainless-steel-historical-improvement-project-mobile",
+      "date": "Aug 7 2026"
+    },
+    {
+      "title": "Stainless Steel 6.4",
+      "description": "A combination of bug fixes, gameplay improvements, better AI, more provinces, graphical improvements, and campaign and battle-map changes.",
+      "url": "https://www.moddb.com/mods/stainless-steel-64",
+      "date": "Aug 7 2026"
+    },
+    {
+      "title": "JLMPs Vanilla Kingdoms 2023",
+      "description": "Vanilla and Kingdoms combined, with countless bug fixes and quality-of-life improvements.",
+      "url": "https://www.moddb.com/mods/jlmps-vanilla-kingdoms-2023",
+      "date": "Aug 7 2026"
+    },
+    {
+      "title": "Tsardoms Total War (mobile)",
+      "description": "A M2TW and Kingdoms modification focused on the Balkans, Near East, and Eastern and Central Europe, including Italy and Switzerland.",
+      "url": "https://www.moddb.com/mods/tsardoms-total-war-mobile",
+      "date": "Aug 4 2026"
+    },
+    {
+      "title": "Insularis Draco (mobile)",
+      "description": "A historical overhaul featuring 30 playable factions and four detailed maps of north-western Europe, covering 355–700 AD.",
+      "url": "https://www.moddb.com/mods/insularis-draco-mobile",
+      "date": "Jul 27 2026"
+    },
+    {
+      "title": "Rule Britannia 1.7",
+      "description": "The full version of the Rule Britannia 1.7 mod.",
+      "url": "https://www.moddb.com/mods/rule-britannia-17",
+      "date": "Jul 27 2026"
+    },
+    {
+      "title": "Rise of the Eagles (mobile)",
+      "description": "A Napoleonic-era mod set between 1806 and 1821, exploring the possibilities of a European Empire under Napoleon I.",
+      "url": "https://www.moddb.com/mods/rise-of-the-eagles-mobile",
+      "date": "Jul 27 2026"
+    },
+    {
+      "title": "Vanilla Reskin & Rebalance (mobile)",
+      "description": "Reskins vanilla units for a more historical look and adjusts several gameplay and balance issues.",
+      "url": "https://www.moddb.com/mods/vanilla-reskin-rebalance-mobile",
+      "date": "Jul 27 2026"
+    },
+    {
+      "title": "Bare Geomod",
+      "description": "A basic mod setup for Medieval II: Total War Mobile.",
+      "url": "https://www.moddb.com/mods/bare-geomod",
+      "date": "Jul 27 2026"
+    },
+    {
+      "title": "Broken Crescent 2.4.2",
+      "description": "A total conversion centred on the Middle East, starting in 1174 and concluding in 1300.",
+      "url": "https://www.moddb.com/mods/broken-crescent-242",
+      "date": "Jul 26 2026"
+    },
+    {
+      "title": "The spring and autumn of five dynasties (Mobile)",
+      "description": "A mobile port of the Five Dynasties mod. The listing notes that official game version 1.5 is needed to play normally.",
+      "url": "https://www.moddb.com/mods/the-spring-and-autumn-of-five-dynasties-mobile",
+      "date": "Jul 26 2026"
+    },
+    {
+      "title": "La Guerre de Cent Ans - The Hundred Years War (Mobile)",
+      "description": "A campaign set in 1337–1453, featuring England, France, and several satellite factions including Aragon, Burgundy, Flanders, and the Holy Roman Empire.",
+      "url": "https://www.moddb.com/mods/la-guerre-de-cent-ans-the-hundred-years-war-mobile",
+      "date": "Jul 26 2026"
+    },
+    {
+      "title": "Europe Ancient (Rome 1 on Medieval II Mobile)",
+      "description": "A project that brings a Rome 1-style setting to the Medieval II engine.",
+      "url": "https://www.moddb.com/mods/europe-ancientrome-1-but-on-medieval-2-for-mobile",
+      "date": "Jul 25 2026"
+    },
+    {
+      "title": "Sengoku",
+      "description": "A mod set during the Sengoku Jidai in feudal Japan.",
+      "url": "https://www.moddb.com/mods/sengoku",
+      "date": "Jul 25 2026"
+    },
+    {
+      "title": "Kingdoms Grand Campaign Mod 5.0",
+      "description": "Adds Kingdoms units into the Grand Campaign, with an expanded epic map and two turns per year starting in 1180.",
+      "url": "https://www.moddb.com/mods/kingdoms-grand-campaign-mod-50",
+      "date": "Jul 25 2026"
+    },
+    {
+      "title": "Clouds across Europe 2.0",
+      "description": "A compatibility-focused release based on the original 1.4 mod, with edits to improve compatibility.",
+      "url": "https://www.moddb.com/mods/clouds-across-europe-20",
+      "date": "Jul 21 2026"
+    }
+  ]
+}
